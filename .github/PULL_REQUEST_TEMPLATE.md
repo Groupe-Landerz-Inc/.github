@@ -14,6 +14,7 @@ Work was tested with at least one of the following (check at least one):
 - [ ] Unit tests
 - [ ] Storybook
 - [ ] UI tests
+- [ ] Scripted manual tests (with script saved to source code)
 
 ### Code quality
 - [ ]  Code refactored and cleaned up
